@@ -64,7 +64,7 @@ Here is some software that supports the SimpleFIN Protocol.  Being listed below 
 
 To add to this list, <a href="https://github.com/simplefin/simplefin.github.com/blob/master/ecosystem.md">fork this repo</a> and submit a pull request.
 
-<div class="app-list">0
+<div class="app-list">
 
 <a class="item" href="https://www.sure.am" target="_blank">
   <div class="item-title"><img src="/img/applogos/sure.png" title="Sure logo"> Sure</div>
